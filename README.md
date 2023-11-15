@@ -6,7 +6,7 @@ IOS version of the LDS Temples Visualization App
 ## Adding new temples: 
 
 ### In TemplesNamesYears folder:
-1. Append newly announced temples to the end of the base list, and on the nest line type "1111". This is a placeholder for the dedication year. 
+1. Append newly announced temples to the end of the base list, and on the next line type "1111". This is a placeholder for the dedication year. 
 2. If any temples have been dedicated since the last update, change the number beneath the name to the proper year. 
 3. Repeat these steps for the English file (and Chinese file if you are able).
 
